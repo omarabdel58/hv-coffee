@@ -1,0 +1,40 @@
+
+#banner-pic{
+	background-image:url("background-pic.jpg");
+	width:1365px;
+	height:662px;
+	width:auto;
+	background-position:center;
+	position:relative;
+	padding-top:50px;
+}
+#nyc{
+	font-size:45px;
+	position:static;
+	text-align:center;
+	color:white;
+	padding-top:100px;
+	background-size:contain;
+}
+#nyc-text{
+	font-size:30px;
+	position:static;
+	text-align:center;
+	color:white;
+	padding-top:120px;
+	margin-top:60px;
+	background-size:contain;
+}
+
+#text-box{
+	text-align:center;
+	background-size:contain;
+}
+
+#google-map{
+	background-image:url("google-map.jpg");
+	width:1500px;
+	height:500px;
+	width:auto;
+	background-repeat:no-repeat;
+}
